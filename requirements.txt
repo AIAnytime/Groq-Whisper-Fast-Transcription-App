@@ -1,0 +1,8 @@
+streamlit 
+crewai
+crewai[tools]
+python-dotenv
+openai
+langchain_openai
+pydub
+python-docx
