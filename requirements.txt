@@ -1,8 +1,6 @@
-streamlit 
-crewai
-crewai[tools]
-python-dotenv
-openai
-langchain_openai
+streamlit
+yt-dlp
 pydub
-python-docx
+openai
+python-dotenv
+ffmpeg-python
