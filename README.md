@@ -1,7 +1,8 @@
 
 # Groq Whisper AI Fast Transcription App
-![Screenshot 2024-09-23 161319](https://github.com/user-attachments/assets/ae0f4e84-50a2-4861-8994-7550ee3b7c28)
-![Screenshot 2024-09-23 161338](https://github.com/user-attachments/assets/2e25e474-5b0b-4c45-9172-3c1b8f780788)
+![Screenshot 2024-09-23 161319](https://github.com/user-attachments/assets/2d8562ab-4302-4856-8900-042cdd677ae6)
+
+![Screenshot 2024-09-23 161338](https://github.com/user-attachments/assets/7ac5a5e0-c3ec-4154-8e59-84eae60bf52a)
 
 
 
@@ -40,7 +41,7 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/groq-whisper-fast-transcription-app.git
+   git clone https://github.com/Vinay9911/Groq-Whisper-Fast-Transcription-App.git
    ```
 
 2. Navigate to the project directory:
